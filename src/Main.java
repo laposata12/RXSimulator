@@ -92,13 +92,16 @@ public class Main extends Applet implements ActionListener {
     total.blockingSubscribe(x -> System.out.println(x));
   }
 
+  /**
+   * starts the entire program
+   */
   public void main() {
     init();
   }
 
   /***
-   *
-   * @param e
+   * runs when ever the user hits a button
+   * @param e the data about which button was pushed
    */
   public void actionPerformed(ActionEvent e) {
     if (!started) {
@@ -110,7 +113,7 @@ public class Main extends Applet implements ActionListener {
         getSavedImages();
         g.drawImage(buffer, 0, 0, 1000, 600, null);
       } catch (Exception i) {
-
+        i.printStackTrace();
       }
       System.out.println("rerunning");
     }
