@@ -18,9 +18,6 @@ public class TempParticle extends Particle {
     charge = 0;
     mass = 0;
     base = new Color(Color.HSBtoRGB(((float) ((int) (Math.random() * 10000)) / 10000), (float) 1.0, (float) 1.0));
-    xVelocity = 0;
-    yVelocity = 0;
-    zVelocity = 0;
     tag = "temp";
 
   }
@@ -31,17 +28,15 @@ public class TempParticle extends Particle {
    * @param avgY average Y coordinate
    * @param avgZ average Z coordinate
    * @param avgCharge average charge
-   * @param avgMass average mass
    * @param name name of particle being removed
    * @param count number of particles within the average
    */
-  private TempParticle(double avgX, double avgY, double avgZ, double avgCharge, double avgMass, String name, int count){
+  private TempParticle(double avgX, double avgY, double avgZ, double avgCharge, String name, int count){
     super(0, "Temp without "+ name);
     x = avgX;
     y = avgY;
     z = avgZ;
     charge = avgCharge;
-    mass = avgMass;
     particleCount = count;
   }
 
@@ -54,17 +49,14 @@ public class TempParticle extends Particle {
     particleCount++;
     double baseWeight = (particleCount - 1.0)/particleCount;
     double newWeight = 1.0/particleCount;
-
-    x *= baseWeight;
-    y *= baseWeight;
-    z *= baseWeight;
+    x = x * baseWeight * charge + p.getX() * newWeight * p.getCharge();
+    y = y * baseWeight * charge + p.getY() * newWeight * p.getCharge();
+    z = z * baseWeight * charge + p.getZ() * newWeight * p.getCharge();
     charge *= baseWeight;
-    mass *= baseWeight;
-    x += newWeight * p.getX();
-    y += newWeight * p.getY();
-    z += newWeight * p.getZ();
     charge += newWeight * p.getCharge();
-    mass += newWeight * p.getMass();
+    x /= charge;
+    y /= charge;
+    z /= charge;
 
   }
 
@@ -74,11 +66,13 @@ public class TempParticle extends Particle {
    */
   public void removeParticle(Particle p){
 
-    x = (x*particleCount - p.getX())/ (particleCount - 1.0);
-    y = (y*particleCount - p.getY())/ (particleCount - 1.0);
-    z = (z*particleCount - p.getZ())/ (particleCount - 1.0);
+    x = (x * particleCount * charge - p.getX() * p.getCharge())/ (particleCount - 1.0);
+    y = (y * particleCount * charge - p.getY() * p.getCharge())/ (particleCount - 1.0);
+    z = (z * particleCount * charge - p.getZ() * p.getCharge())/ (particleCount - 1.0);
     charge = (charge*particleCount - p.getCharge())/ (particleCount - 1.0);
-    mass = (mass*particleCount - p.getMass())/ (particleCount - 1.0);
+    x /= charge;
+    y /= charge;
+    z /= charge;
     particleCount --;
 
   }
@@ -89,7 +83,7 @@ public class TempParticle extends Particle {
    * @return a new particle with one particle averaged out
    */
   public TempParticle getWithout(Particle p){
-    TempParticle temp = new TempParticle(x, y, z, charge, mass, p.getTag(), particleCount);
+    TempParticle temp = new TempParticle(x, y, z, charge, p.getTag(), particleCount);
     temp.removeParticle(p);
     return temp;
   }
@@ -99,7 +93,7 @@ public class TempParticle extends Particle {
    * @return a string summarizing the TempParticles data
    */
   public String toString(){
-    return "tag:" + tag + " x:" + x + " y:" + y + " z:" + z + " charge:" + charge + " mass:" + mass+ "\n";
+    return "tag:" + tag + " x:" + x + " y:" + y + " z:" + z + " charge:" + charge + "\n";
 
   }
 

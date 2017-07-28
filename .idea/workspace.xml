@@ -2,11 +2,310 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78194d4e-527b-44fe-bae2-e0e72c9b53b3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GifSequenceWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Particle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames253" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames254" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames255" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames256" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames257" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames258" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames259" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames260" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames261" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames262" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames263" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames264" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames265" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames266" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames267" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames268" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames269" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames270" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames271" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames272" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames273" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames274" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames275" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames276" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames277" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames278" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames279" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames280" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames281" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames282" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames283" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames284" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames285" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames286" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames287" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames288" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames289" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames290" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames291" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames292" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames293" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames294" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames295" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames296" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames297" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frames298" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gif/experimentRound0.gif" afterPath="$PROJECT_DIR$/Gif/experimentRound0.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames0" afterPath="$PROJECT_DIR$/images/frames0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames1" afterPath="$PROJECT_DIR$/images/frames1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames10" afterPath="$PROJECT_DIR$/images/frames10" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames100" afterPath="$PROJECT_DIR$/images/frames100" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames101" afterPath="$PROJECT_DIR$/images/frames101" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames102" afterPath="$PROJECT_DIR$/images/frames102" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames103" afterPath="$PROJECT_DIR$/images/frames103" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames104" afterPath="$PROJECT_DIR$/images/frames104" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames105" afterPath="$PROJECT_DIR$/images/frames105" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames106" afterPath="$PROJECT_DIR$/images/frames106" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames107" afterPath="$PROJECT_DIR$/images/frames107" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames108" afterPath="$PROJECT_DIR$/images/frames108" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames109" afterPath="$PROJECT_DIR$/images/frames109" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames11" afterPath="$PROJECT_DIR$/images/frames11" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames110" afterPath="$PROJECT_DIR$/images/frames110" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames111" afterPath="$PROJECT_DIR$/images/frames111" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames112" afterPath="$PROJECT_DIR$/images/frames112" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames113" afterPath="$PROJECT_DIR$/images/frames113" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames114" afterPath="$PROJECT_DIR$/images/frames114" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames115" afterPath="$PROJECT_DIR$/images/frames115" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames116" afterPath="$PROJECT_DIR$/images/frames116" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames117" afterPath="$PROJECT_DIR$/images/frames117" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames118" afterPath="$PROJECT_DIR$/images/frames118" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames119" afterPath="$PROJECT_DIR$/images/frames119" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames12" afterPath="$PROJECT_DIR$/images/frames12" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames120" afterPath="$PROJECT_DIR$/images/frames120" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames121" afterPath="$PROJECT_DIR$/images/frames121" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames122" afterPath="$PROJECT_DIR$/images/frames122" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames123" afterPath="$PROJECT_DIR$/images/frames123" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames124" afterPath="$PROJECT_DIR$/images/frames124" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames125" afterPath="$PROJECT_DIR$/images/frames125" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames126" afterPath="$PROJECT_DIR$/images/frames126" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames127" afterPath="$PROJECT_DIR$/images/frames127" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames128" afterPath="$PROJECT_DIR$/images/frames128" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames129" afterPath="$PROJECT_DIR$/images/frames129" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames13" afterPath="$PROJECT_DIR$/images/frames13" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames130" afterPath="$PROJECT_DIR$/images/frames130" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames131" afterPath="$PROJECT_DIR$/images/frames131" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames132" afterPath="$PROJECT_DIR$/images/frames132" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames133" afterPath="$PROJECT_DIR$/images/frames133" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames134" afterPath="$PROJECT_DIR$/images/frames134" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames135" afterPath="$PROJECT_DIR$/images/frames135" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames136" afterPath="$PROJECT_DIR$/images/frames136" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames137" afterPath="$PROJECT_DIR$/images/frames137" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames138" afterPath="$PROJECT_DIR$/images/frames138" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames139" afterPath="$PROJECT_DIR$/images/frames139" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames14" afterPath="$PROJECT_DIR$/images/frames14" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames140" afterPath="$PROJECT_DIR$/images/frames140" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames141" afterPath="$PROJECT_DIR$/images/frames141" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames142" afterPath="$PROJECT_DIR$/images/frames142" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames143" afterPath="$PROJECT_DIR$/images/frames143" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames144" afterPath="$PROJECT_DIR$/images/frames144" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames145" afterPath="$PROJECT_DIR$/images/frames145" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames146" afterPath="$PROJECT_DIR$/images/frames146" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames147" afterPath="$PROJECT_DIR$/images/frames147" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames148" afterPath="$PROJECT_DIR$/images/frames148" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames149" afterPath="$PROJECT_DIR$/images/frames149" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames15" afterPath="$PROJECT_DIR$/images/frames15" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames150" afterPath="$PROJECT_DIR$/images/frames150" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames151" afterPath="$PROJECT_DIR$/images/frames151" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames152" afterPath="$PROJECT_DIR$/images/frames152" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames153" afterPath="$PROJECT_DIR$/images/frames153" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames154" afterPath="$PROJECT_DIR$/images/frames154" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames155" afterPath="$PROJECT_DIR$/images/frames155" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames156" afterPath="$PROJECT_DIR$/images/frames156" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames157" afterPath="$PROJECT_DIR$/images/frames157" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames158" afterPath="$PROJECT_DIR$/images/frames158" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames159" afterPath="$PROJECT_DIR$/images/frames159" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames16" afterPath="$PROJECT_DIR$/images/frames16" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames160" afterPath="$PROJECT_DIR$/images/frames160" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames161" afterPath="$PROJECT_DIR$/images/frames161" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames162" afterPath="$PROJECT_DIR$/images/frames162" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames163" afterPath="$PROJECT_DIR$/images/frames163" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames164" afterPath="$PROJECT_DIR$/images/frames164" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames165" afterPath="$PROJECT_DIR$/images/frames165" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames166" afterPath="$PROJECT_DIR$/images/frames166" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames167" afterPath="$PROJECT_DIR$/images/frames167" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames168" afterPath="$PROJECT_DIR$/images/frames168" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames169" afterPath="$PROJECT_DIR$/images/frames169" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames17" afterPath="$PROJECT_DIR$/images/frames17" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames170" afterPath="$PROJECT_DIR$/images/frames170" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames171" afterPath="$PROJECT_DIR$/images/frames171" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames172" afterPath="$PROJECT_DIR$/images/frames172" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames173" afterPath="$PROJECT_DIR$/images/frames173" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames174" afterPath="$PROJECT_DIR$/images/frames174" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames175" afterPath="$PROJECT_DIR$/images/frames175" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames176" afterPath="$PROJECT_DIR$/images/frames176" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames177" afterPath="$PROJECT_DIR$/images/frames177" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames178" afterPath="$PROJECT_DIR$/images/frames178" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames179" afterPath="$PROJECT_DIR$/images/frames179" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames18" afterPath="$PROJECT_DIR$/images/frames18" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames180" afterPath="$PROJECT_DIR$/images/frames180" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames181" afterPath="$PROJECT_DIR$/images/frames181" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames182" afterPath="$PROJECT_DIR$/images/frames182" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames183" afterPath="$PROJECT_DIR$/images/frames183" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames184" afterPath="$PROJECT_DIR$/images/frames184" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames185" afterPath="$PROJECT_DIR$/images/frames185" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames186" afterPath="$PROJECT_DIR$/images/frames186" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames187" afterPath="$PROJECT_DIR$/images/frames187" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames188" afterPath="$PROJECT_DIR$/images/frames188" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames189" afterPath="$PROJECT_DIR$/images/frames189" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames19" afterPath="$PROJECT_DIR$/images/frames19" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames190" afterPath="$PROJECT_DIR$/images/frames190" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames191" afterPath="$PROJECT_DIR$/images/frames191" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames192" afterPath="$PROJECT_DIR$/images/frames192" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames193" afterPath="$PROJECT_DIR$/images/frames193" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames194" afterPath="$PROJECT_DIR$/images/frames194" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames195" afterPath="$PROJECT_DIR$/images/frames195" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames196" afterPath="$PROJECT_DIR$/images/frames196" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames197" afterPath="$PROJECT_DIR$/images/frames197" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames198" afterPath="$PROJECT_DIR$/images/frames198" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames199" afterPath="$PROJECT_DIR$/images/frames199" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames2" afterPath="$PROJECT_DIR$/images/frames2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames20" afterPath="$PROJECT_DIR$/images/frames20" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames200" afterPath="$PROJECT_DIR$/images/frames200" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames201" afterPath="$PROJECT_DIR$/images/frames201" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames202" afterPath="$PROJECT_DIR$/images/frames202" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames203" afterPath="$PROJECT_DIR$/images/frames203" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames204" afterPath="$PROJECT_DIR$/images/frames204" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames205" afterPath="$PROJECT_DIR$/images/frames205" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames206" afterPath="$PROJECT_DIR$/images/frames206" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames207" afterPath="$PROJECT_DIR$/images/frames207" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames208" afterPath="$PROJECT_DIR$/images/frames208" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames209" afterPath="$PROJECT_DIR$/images/frames209" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames21" afterPath="$PROJECT_DIR$/images/frames21" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames210" afterPath="$PROJECT_DIR$/images/frames210" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames211" afterPath="$PROJECT_DIR$/images/frames211" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames212" afterPath="$PROJECT_DIR$/images/frames212" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames213" afterPath="$PROJECT_DIR$/images/frames213" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames214" afterPath="$PROJECT_DIR$/images/frames214" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames215" afterPath="$PROJECT_DIR$/images/frames215" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames216" afterPath="$PROJECT_DIR$/images/frames216" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames217" afterPath="$PROJECT_DIR$/images/frames217" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames218" afterPath="$PROJECT_DIR$/images/frames218" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames219" afterPath="$PROJECT_DIR$/images/frames219" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames22" afterPath="$PROJECT_DIR$/images/frames22" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames220" afterPath="$PROJECT_DIR$/images/frames220" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames221" afterPath="$PROJECT_DIR$/images/frames221" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames222" afterPath="$PROJECT_DIR$/images/frames222" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames223" afterPath="$PROJECT_DIR$/images/frames223" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames224" afterPath="$PROJECT_DIR$/images/frames224" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames225" afterPath="$PROJECT_DIR$/images/frames225" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames226" afterPath="$PROJECT_DIR$/images/frames226" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames227" afterPath="$PROJECT_DIR$/images/frames227" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames228" afterPath="$PROJECT_DIR$/images/frames228" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames229" afterPath="$PROJECT_DIR$/images/frames229" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames23" afterPath="$PROJECT_DIR$/images/frames23" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames230" afterPath="$PROJECT_DIR$/images/frames230" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames231" afterPath="$PROJECT_DIR$/images/frames231" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames232" afterPath="$PROJECT_DIR$/images/frames232" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames233" afterPath="$PROJECT_DIR$/images/frames233" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames234" afterPath="$PROJECT_DIR$/images/frames234" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames235" afterPath="$PROJECT_DIR$/images/frames235" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames236" afterPath="$PROJECT_DIR$/images/frames236" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames237" afterPath="$PROJECT_DIR$/images/frames237" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames238" afterPath="$PROJECT_DIR$/images/frames238" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames239" afterPath="$PROJECT_DIR$/images/frames239" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames24" afterPath="$PROJECT_DIR$/images/frames24" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames240" afterPath="$PROJECT_DIR$/images/frames240" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames241" afterPath="$PROJECT_DIR$/images/frames241" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames242" afterPath="$PROJECT_DIR$/images/frames242" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames243" afterPath="$PROJECT_DIR$/images/frames243" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames244" afterPath="$PROJECT_DIR$/images/frames244" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames245" afterPath="$PROJECT_DIR$/images/frames245" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames246" afterPath="$PROJECT_DIR$/images/frames246" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames247" afterPath="$PROJECT_DIR$/images/frames247" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames248" afterPath="$PROJECT_DIR$/images/frames248" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames249" afterPath="$PROJECT_DIR$/images/frames249" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames25" afterPath="$PROJECT_DIR$/images/frames25" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames250" afterPath="$PROJECT_DIR$/images/frames250" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames251" afterPath="$PROJECT_DIR$/images/frames251" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames252" afterPath="$PROJECT_DIR$/images/frames252" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames26" afterPath="$PROJECT_DIR$/images/frames26" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames27" afterPath="$PROJECT_DIR$/images/frames27" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames28" afterPath="$PROJECT_DIR$/images/frames28" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames29" afterPath="$PROJECT_DIR$/images/frames29" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames3" afterPath="$PROJECT_DIR$/images/frames3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames30" afterPath="$PROJECT_DIR$/images/frames30" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames31" afterPath="$PROJECT_DIR$/images/frames31" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames32" afterPath="$PROJECT_DIR$/images/frames32" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames33" afterPath="$PROJECT_DIR$/images/frames33" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames34" afterPath="$PROJECT_DIR$/images/frames34" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames35" afterPath="$PROJECT_DIR$/images/frames35" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames36" afterPath="$PROJECT_DIR$/images/frames36" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames37" afterPath="$PROJECT_DIR$/images/frames37" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames38" afterPath="$PROJECT_DIR$/images/frames38" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames39" afterPath="$PROJECT_DIR$/images/frames39" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames4" afterPath="$PROJECT_DIR$/images/frames4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames40" afterPath="$PROJECT_DIR$/images/frames40" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames41" afterPath="$PROJECT_DIR$/images/frames41" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames42" afterPath="$PROJECT_DIR$/images/frames42" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames43" afterPath="$PROJECT_DIR$/images/frames43" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames44" afterPath="$PROJECT_DIR$/images/frames44" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames45" afterPath="$PROJECT_DIR$/images/frames45" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames46" afterPath="$PROJECT_DIR$/images/frames46" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames47" afterPath="$PROJECT_DIR$/images/frames47" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames48" afterPath="$PROJECT_DIR$/images/frames48" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames49" afterPath="$PROJECT_DIR$/images/frames49" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames5" afterPath="$PROJECT_DIR$/images/frames5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames50" afterPath="$PROJECT_DIR$/images/frames50" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames51" afterPath="$PROJECT_DIR$/images/frames51" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames52" afterPath="$PROJECT_DIR$/images/frames52" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames53" afterPath="$PROJECT_DIR$/images/frames53" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames54" afterPath="$PROJECT_DIR$/images/frames54" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames55" afterPath="$PROJECT_DIR$/images/frames55" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames56" afterPath="$PROJECT_DIR$/images/frames56" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames57" afterPath="$PROJECT_DIR$/images/frames57" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames58" afterPath="$PROJECT_DIR$/images/frames58" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames59" afterPath="$PROJECT_DIR$/images/frames59" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames6" afterPath="$PROJECT_DIR$/images/frames6" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames60" afterPath="$PROJECT_DIR$/images/frames60" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames61" afterPath="$PROJECT_DIR$/images/frames61" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames62" afterPath="$PROJECT_DIR$/images/frames62" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames63" afterPath="$PROJECT_DIR$/images/frames63" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames64" afterPath="$PROJECT_DIR$/images/frames64" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames65" afterPath="$PROJECT_DIR$/images/frames65" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames66" afterPath="$PROJECT_DIR$/images/frames66" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames67" afterPath="$PROJECT_DIR$/images/frames67" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames68" afterPath="$PROJECT_DIR$/images/frames68" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames69" afterPath="$PROJECT_DIR$/images/frames69" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames7" afterPath="$PROJECT_DIR$/images/frames7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames70" afterPath="$PROJECT_DIR$/images/frames70" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames71" afterPath="$PROJECT_DIR$/images/frames71" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames72" afterPath="$PROJECT_DIR$/images/frames72" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames73" afterPath="$PROJECT_DIR$/images/frames73" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames74" afterPath="$PROJECT_DIR$/images/frames74" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames75" afterPath="$PROJECT_DIR$/images/frames75" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames76" afterPath="$PROJECT_DIR$/images/frames76" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames77" afterPath="$PROJECT_DIR$/images/frames77" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames78" afterPath="$PROJECT_DIR$/images/frames78" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames79" afterPath="$PROJECT_DIR$/images/frames79" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames8" afterPath="$PROJECT_DIR$/images/frames8" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames80" afterPath="$PROJECT_DIR$/images/frames80" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames81" afterPath="$PROJECT_DIR$/images/frames81" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames82" afterPath="$PROJECT_DIR$/images/frames82" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames83" afterPath="$PROJECT_DIR$/images/frames83" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames84" afterPath="$PROJECT_DIR$/images/frames84" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames85" afterPath="$PROJECT_DIR$/images/frames85" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames86" afterPath="$PROJECT_DIR$/images/frames86" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames87" afterPath="$PROJECT_DIR$/images/frames87" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames88" afterPath="$PROJECT_DIR$/images/frames88" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames89" afterPath="$PROJECT_DIR$/images/frames89" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames9" afterPath="$PROJECT_DIR$/images/frames9" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames90" afterPath="$PROJECT_DIR$/images/frames90" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames91" afterPath="$PROJECT_DIR$/images/frames91" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames92" afterPath="$PROJECT_DIR$/images/frames92" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames93" afterPath="$PROJECT_DIR$/images/frames93" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames94" afterPath="$PROJECT_DIR$/images/frames94" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames95" afterPath="$PROJECT_DIR$/images/frames95" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames96" afterPath="$PROJECT_DIR$/images/frames96" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames97" afterPath="$PROJECT_DIR$/images/frames97" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames98" afterPath="$PROJECT_DIR$/images/frames98" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/frames99" afterPath="$PROJECT_DIR$/images/frames99" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TempParticle.java" afterPath="$PROJECT_DIR$/src/TempParticle.java" />
     </list>
     <ignored path="RXSimulator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,11 +327,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="170" column="13" selection-start-line="170" selection-start-column="13" selection-end-line="170" selection-end-column="13" />
+            <state relative-caret-position="51">
+              <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -41,20 +340,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TempParticle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TempParticle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Particle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Particle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510">
+            <state relative-caret-position="-90">
               <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
               <folding />
             </state>
@@ -69,6 +358,16 @@
               <folding>
                 <element signature="e#0#6280#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TempParticle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TempParticle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="64" column="54" selection-start-line="64" selection-start-column="54" selection-end-line="64" selection-end-column="54" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,8 +396,8 @@
         <option value="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/xml/internal/bind/v2/schemagen/xmlschema/Particle.class" />
         <option value="$PROJECT_DIR$/src/Sort.java" />
         <option value="$PROJECT_DIR$/src/Particle.java" />
-        <option value="$PROJECT_DIR$/src/TempParticle.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/TempParticle.java" />
       </list>
     </option>
   </component>
@@ -651,12 +950,12 @@
       <workItem from="1496670941578" duration="1301000" />
       <workItem from="1497393646920" duration="5838000" />
       <workItem from="1497569735332" duration="996000" />
-      <workItem from="1499813392956" duration="10648000" />
+      <workItem from="1499813392956" duration="13519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18783000" />
+    <option name="totallyTimeSpent" value="21654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -669,7 +968,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40903056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40903056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -677,7 +976,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14765625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -768,32 +1067,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GifSequenceWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#6280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TempParticle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Particle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GifSequenceWriter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -818,14 +1091,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.0.0/rxjava-2.0.0.jar!/io/reactivex/functions/Consumer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="170" column="13" selection-start-line="170" selection-start-column="13" selection-end-line="170" selection-end-column="13" />
+        <state relative-caret-position="51">
+          <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Particle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GifSequenceWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#6280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TempParticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="64" column="54" selection-start-line="64" selection-start-column="54" selection-end-line="64" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>

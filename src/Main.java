@@ -43,6 +43,7 @@ public class Main extends Applet implements ActionListener {
   private boolean act = true;
   private int zLimit = 200;
   private GifSequenceWriter maker;
+  private final String BASE_PATH = "/Users/michaellaposata/Documents/workspace/RXSimulator/";
 
   /***
    * Creates the full sized display and creates a button to start the main functionality.
@@ -75,17 +76,18 @@ public class Main extends Applet implements ActionListener {
   public void particleSet() {
     collection = new Particle[3];
     collection[0] = new Particle(roundsPerSecond, "0");
-    collection[0].setCharge(-50);
-    collection[0].setVelocities(100, -10, -5);
-    collection[0].setXYZStart(000, 400, 50);
+    collection[0].setCharge(50);
+    collection[0].setVelocities(200, 0, 0);
+    collection[0].setXYZStart(000, 300, 0);
     collection[1] = new Particle(roundsPerSecond, "1");
-    collection[1].setCharge(20);
-    collection[1].setVelocities(-100, 10, 5);
-    collection[1].setXYZStart(1000, 200, -50);
+    collection[1].setCharge(100);
+    collection[1].setVelocities(-200, 0, 10);
+    collection[1].setXYZStart(1000, 300, 0);
     collection[2] = new Particle(roundsPerSecond, "2");
-    collection[2].setCharge(10);
-    collection[2].setVelocities(0, -100, -500);
-    collection[2].setXYZStart(400, 400, 2000);
+    collection[2].setCharge(0);
+    collection[2].setVelocities(-200, 0, 10);
+    collection[2].setXYZStart(1000, 500, 0);
+
 
     //total holds all particles from collection and coil
     total = Flowable.fromArray(collection);
@@ -119,6 +121,9 @@ public class Main extends Applet implements ActionListener {
     }
   }
 
+  /**
+   * expands the screen and sets up the canvas
+   */
   public void initialStart() {
     r = new Button("rerun");
     add(r);
@@ -136,6 +141,10 @@ public class Main extends Applet implements ActionListener {
     started = true;
   }
 
+  /**
+   * creates the graphics to be drawn on and either starts the simulation or runs the old simulation
+   * @param e the information about which button has been pressed
+   */
   public void secondaryActivation(ActionEvent e) {
     remove(b);
     g = c.getGraphics();
@@ -159,13 +168,19 @@ public class Main extends Applet implements ActionListener {
     }
   }
 
+  /**
+   * runs the top level of the simulation. It generates the graphics and calls all calculations on
+   * the particles.
+   * @param seconds The number of seconds to be simulated
+   */
   public void process(int seconds) {
-    System.out.println("starting to process, simulating " + seconds + " seconds with " + roundsPerSecond * seconds + " calculations and " + seconds *  framesPerSecond + " frames");
+    System.out.println("starting to process, simulating " + seconds +
+        " seconds with " + roundsPerSecond * seconds +
+        " calculations and " + seconds *  framesPerSecond + " frames");
     ImageOutputStream output = null;
     String fileName = "";
     try {
-      //fileName = getNewGIFName();
-      File g = new File("/Users/michaellaposata/Documents/workspace/RXSimulator/Gif/experimentRound0.gif");
+      File g = new File(getNewGIFName());
       System.out.println(fileName);
       output = new FileImageOutputStream(g);
       maker = new GifSequenceWriter(output, BufferedImage.TYPE_BYTE_BINARY, 1, true);
@@ -193,7 +208,7 @@ public class Main extends Applet implements ActionListener {
       if (i % (roundsPerSecond / framesPerSecond) == 0) {
 
         draw(gB);
-        f = new File("/Users/michaellaposata/Documents/workspace/RXSimulator/images/frames" + framesCaptured);
+        f = new File(BASE_PATH + "images/frames" + framesCaptured);
 
         saveImage(f);
         try {
@@ -220,6 +235,10 @@ public class Main extends Applet implements ActionListener {
     System.out.println("done");
   }
 
+  /**
+   * saves the image to be displayed later
+   * @param f the file which the image will be written to
+   */
   public void saveImage(File f) {
     if (draw(framesGraphics)) {
       try {
@@ -236,19 +255,19 @@ public class Main extends Applet implements ActionListener {
     }
   }
 
+  /**
+   * finds a name for the GIF to be stored under that is not currently used in storage
+   * @return a String not currently in use
+   */
   public String getNewGIFName() {
-    File f = new File("/Users/michaellaposata/Documents/workspace/RXSimulator/Gif/experimentRound0.gif");
+    File f = new File(BASE_PATH + "Gif/experimentRound0.gif");
     int counter = 1;
     while (f.exists()) {
-      f = new File("/Users/michaellaposata/Documents/workspace/RXSimulator/Gif/experimentRound" + counter + ".gif");
+      f = new File(BASE_PATH + "Gif/experimentRound" + counter + ".gif");
       counter++;
     }
-    String temp = f.getPath();
-    String name = "";
-    for (int i = 0; i < temp.length() - 4; i++) {
-      name += temp.charAt(i);
-    }
-    return name;
+
+    return f.getPath();
   }
 
   public void getSavedImages() {
@@ -258,7 +277,7 @@ public class Main extends Applet implements ActionListener {
     File f;
     Image i;
     while (working) {
-      f = new File("/Users/michaellaposata/Documents/workspace/RXSimulator/images/frames" + counter);
+      f = new File(BASE_PATH + "images/frames" + counter);
       if (counter % 100 == 0) {
         System.out.println("saved " + counter);
       }
@@ -285,7 +304,7 @@ public class Main extends Applet implements ActionListener {
     int counter = 0;
     File f;
     while (working) {
-      f = new File("/Users/michaellaposata/Documents/workspace/RXSimulator/images/frames" + counter);
+      f = new File(BASE_PATH + "images/frames" + counter);
       if (counter % 100 == 0) {
         System.out.println("deleted " + counter);
       }
